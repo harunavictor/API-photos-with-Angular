@@ -1,0 +1,13 @@
+.header{
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    padding: 40%;
+    margin: 20px;
+    font-size: 50px;
+    font-style: normal;
+}
+.mat{
+    padding: 35px;
+    margin: 20px;
+}
